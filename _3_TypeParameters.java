@@ -37,7 +37,7 @@ class Data <K, V> { // A Generic Class
     public <E, N> void  display (E element, N number) { //A Generic Method
         //E and N can be of any type
         System.out.println("Element: "+element +"\tNumber: "+number);
-    }
+    } 
 }
 
 public class _3_TypeParameters {
